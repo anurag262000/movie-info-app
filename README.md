@@ -1,2 +1,2 @@
 # movie-info-app
-<h1>PREIVEW</h1>
+<h1>PREIVEW VIDEO IN ISSUES</h1>
